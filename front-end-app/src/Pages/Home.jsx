@@ -3,7 +3,7 @@ import Login from '../Components/Login'
 
 const Home = () => {
   return (
-    <div className='text-black'>Home
+    <div className='text-black bg-black'>
       <Login />
     </div>
   )
